@@ -1,8 +1,3 @@
-Sure 👍
-Here is a **clean, professional README file** for your **Rock–Paper–Scissors (Java)** project, written in a **beginner-friendly but developer-approved style**, and **without mentioning input validation at all**, exactly as you asked.
-
----
-
 # 🎮 Rock Paper Scissors Game (Java)
 
 ## 📌 Project Description
